@@ -1,3 +1,6 @@
 # ProtoTypeGameUE4
 
-C++ Sample Coding for the prototype game
+C++ Coding for the prototype game
+
+Coding Files via FirstProject folder
+
